@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "heroku": "^7.27.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.12.0",
+    "styled-components": "^4.3.2"
   }
 }
